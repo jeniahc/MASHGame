@@ -31,7 +31,8 @@ h1 {
 /* Submit Button, Columns, Questions, and Inputs */
 .button-submit {
   background: transparent;
-  border: 3px solid #fff;
+  border: 5px solid #fff;
+  border-style: outset;
   border-radius: 6px;
   color: #2C2F33;
   cursor: pointer; 
@@ -70,7 +71,8 @@ h1 {
 }
 
 .choice-bucket input {
-  border: 0;
+  border: 7px #fff;
+  border-style: groove;
   border-radius: 6px;
   color: #2C2F33;
   font-size: 18px;
